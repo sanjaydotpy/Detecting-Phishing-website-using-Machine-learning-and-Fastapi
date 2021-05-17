@@ -1,0 +1,14 @@
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Plotly
+times
+Image
+wordcloud
+beautifulsoup4
+selenium
+NetworkX
+uvicorn
+fastapi 
+joblib
